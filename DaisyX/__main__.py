@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [PATRICIA SUPPORT CHAT](t.me/PATRICIA_SUPPORT),[BLAZE](t.me/BLAZE_OOP),"""
+Support them  [CLICK HERE FOR SUPPORT](t.me/PATRICIA_SUPPORT),[BLAZE](t.me/piroXpower),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -298,7 +298,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*⚊❮❮❮❮ ｢  Help  for  {}  module 」❯❯❯❯⚊*\n".format(
+                "*⚊❮❮❮❮ ｢  Help  for  {} Patricia module 」❯❯❯❯⚊*\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -361,8 +361,8 @@ def DaisyX_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by USERBOT_SUPPORTS.* "
-            f"\n\n 🔥 Join [BOT_SUPPORT](https://t.me/userbot_supports) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
-            f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
+            f"\n\n 🔥 Join [SUPPORT](https://t.me/Patricia_support) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the Global banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/443a0e87e701d9f2f9451.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
             parse_mode=ParseMode.MARKDOWN,
@@ -398,7 +398,7 @@ def DaisyX_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [InfinityJE](https://t.me/infinityje).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Patricia](https://t.me/patricia_support).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -418,9 +418,9 @@ def DaisyX_about_callback(update, context):
         )
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
-            text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [Daisy](https://github.com/inukaasith/daisy) + [Naruto](https://github.com/imjanindu/narutorobot)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was written by InukaASiTH and Imjanindu"
+            text=f"*{dispatcher.bot.first_name} Is the 5th version of  Patricia for the best performance.*"
+            f"\n\n developed by [BLAZE](https://t.me/patriciaXpro)"
+            f"\n\n{dispatcher.bot.first_name}'s source code was written by BLAZE and OXILIC"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -446,7 +446,6 @@ def DaisyX_about_callback(update, context):
     elif query.data == "aboutmanu_spamprot":
         query.message.edit_text(
             text="* ｢ Anti-Spam Settings 」*"
-            "\n- /antispam <on/off/yes/no>: Change antispam security settings in the group, or return your current settings(when no arguments)."
             "\n_This helps protect you and your groups by removing spam flooders as quickly as possible._"
             "\n\n- /setflood <int/'no'/'off'>: enables or disables flood control"
             "\n- /setfloodmode <ban/kick/mute/tban/tmute> <value>: Action to perform when user have exceeded flood limit. ban/kick/mute/tmute/tban"
@@ -478,7 +477,7 @@ def DaisyX_about_callback(update, context):
             f"\n<i>To Use This Bot, You Need To Read Terms and Conditions Carefully.</i>\n"
             f"\n✪ We always respect your privacy \n  We never log into bot's api and spying on you \n  We use a encripted database \n  Bot will automatically stops if someone logged in with api."
             f"\n✪ Always try to keep credits, so \n  This hardwork is done by Infinity_Bots team spending many sleepless nights.. So, Respect it."
-            f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to them \n  Also for <b>Paul Larson for Marie</b>."
+            f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to them \n  Special thanks <b> Ambala Asith </b>."
             f"\n✪ If you need to ask anything about \n  this bot, Go @{SUPPORT_CHAT}."
             f"\n✪ If you asking nonsense in Support \n  Chat, you will get warned/banned."
             f"\n✪ All api's we used owned by originnal authors \n  Some api's we use Free version \n  Please don't overuse AI Chat."
