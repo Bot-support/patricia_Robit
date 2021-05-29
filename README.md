@@ -14,8 +14,8 @@
 
 
 
-## CREDITS 
-- Daisy
+<b>CREDITS</b>
+- [Daisy](https://github.com/TeamDaisyX/DaisyX)
 - [BLAZE](https://t.me/piroXpower)
 
 ## Deploy
