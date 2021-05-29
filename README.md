@@ -2,7 +2,7 @@
 <p align="center"><a href="https://t.me/patricia_support"><img src="https://telegra.ph/file/de8e07908f887c55d6993.jpg" width="7000"></a></p> 
 <h4 align="center">A Powerful, Smart And Simple Management Bot to safeguard your group from spammers.</h4>
 
- AVAILABLE ON TELEGRAM WITH NAME (PATRICIA)[https://t.me/patricia_Robot)
+ AVAILABLE ON TELEGRAM WITH NAME [PATRICIA](https://t.me/patricia_Robot)
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🚑
 <a href="https://t.me/patricia_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
