@@ -11,7 +11,7 @@
 <b> JOIN UPDATE CHANNEL FOR FUTURE UPDATES REGARDING BOT </b>
 ### DEPLOY 💻
 
-![Deploy](https://heroku.com/deploy?template=https://github.com/Bot-support/patricia_Robot2.0)
+![Deploy](https://telegra.ph/file/22535f8051a58af113586.jpg??template=https://github.com/Bot-support/patricia_Robot2.0)
 
 ## Credit 💞
 <i><b> [BLAZE](https://t.me/piroXpower)</i></b>
