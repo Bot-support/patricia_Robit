@@ -8,3 +8,4 @@
 <a href="https://t.me/patricia_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ## Credit 💞
 <i><b> [BLAZE](https://t.me/piroXpower)</i></b>
+<i><b> DAISY </i></b>
