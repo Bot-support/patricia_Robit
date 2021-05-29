@@ -3,7 +3,7 @@
 <h4 align="center">A Powerful, Smart And Simple Management Bot to safeguard your group from spammers.</h4>
 
 
-## Support 🚑
+## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🚑
 <a href="https://t.me/patricia_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/patricia_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -14,12 +14,14 @@
 
 
 
-### DEPLOY 💻
+### 𝐃𝐄𝐏𝐋𝐎𝐘 💻
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bot-suppport/patricia_Robot2.0)
 
-## Credit 💞
+## 𝐂𝐑𝐄𝐃𝐈𝐓 💞
 
 <i><b> [BLAZE](https://t.me/piroXpower)</i></b>
 
 <i><b> [DAISY](https://github.com/TeamDaisyX/DaisyX)</i></b>
+
+
