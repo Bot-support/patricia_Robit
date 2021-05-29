@@ -9,4 +9,4 @@
 ## Credit 💞
 <i><b> [BLAZE](https://t.me/piroXpower)</i></b>
 
-<i><b> DAISY </i></b>
+<i><b> [DAISY](https://github.com/TeamDaisyX/DaisyX)</i></b>
