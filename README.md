@@ -14,7 +14,7 @@
 
 
 
-<b>CREDITS</b>
+<summary>CREDITS</summary>
 - [Daisy](https://github.com/TeamDaisyX/DaisyX)
 - [BLAZE](https://t.me/piroXpower)
 
