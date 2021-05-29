@@ -16,7 +16,7 @@
 
 ## CREDITS 
 - Daisy
-- [BLAZE][t.me/piroXpower
+- [BLAZE](https://t.me/piroXpower)
 
 ## Deploy
 
