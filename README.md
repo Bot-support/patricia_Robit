@@ -6,9 +6,10 @@
 ## Support 🚑
 <a href="https://t.me/patricia_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/patricia_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
+### DEPLOY 💻
+![Deploy](https://heroku.com/deploy?template=https://github.com/Bot-support/patricia_Robot2.0)
 
 ## Credit 💞
-<a><i><b> [BLAZE](https://t.me/piroXpower)</a></i></b>
+<i><b> [BLAZE](https://t.me/piroXpower)</i></b>
 
 <i><b> [DAISY](https://github.com/TeamDaisyX/DaisyX)</i></b>
