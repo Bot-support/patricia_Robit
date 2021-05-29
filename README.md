@@ -6,3 +6,5 @@
 ## Support 🚑
 <a href="https://t.me/patricia_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/patricia_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+## Credit 💞
+<a [BLAZE](t.me/piroXpower)</a>
